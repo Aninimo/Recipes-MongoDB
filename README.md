@@ -1,4 +1,4 @@
-Link: <a href="https://recipes-mongo-db-taupe.vercel.app/"></a>
+Link: <a href="https://recipes-mongo-db-taupe.vercel.app/">Link</a>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
